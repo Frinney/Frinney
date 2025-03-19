@@ -1,4 +1,4 @@
 # My Achievements
 
-![My Photo](1.jpg)
+![My Photo](1.png)
 
